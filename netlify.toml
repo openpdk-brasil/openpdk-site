@@ -1,6 +1,10 @@
 [build]
-  publish = "public"
   command = "hugo"
+  publish = "public"
 
-[context.production.environment]
+[build.environment]
   HUGO_VERSION = "0.143.1"
+  HUGO_ENABLEMODS = "true"
+  GO_VERSION = "1.23.6"
+
+
