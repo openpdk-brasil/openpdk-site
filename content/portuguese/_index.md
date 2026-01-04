@@ -15,6 +15,6 @@ draft: false
 
 ## Nossos Objetivos
 
-- Divulgar ferramentas open-source para design de hardware.
+- Divulgar ferramentas open-source para design de hardware e estudantes.
 - Facilitar o acesso a kits de processo (PDKs) abertos.
 - Construir uma comunidade ativa de desenvolvedores e entusiastas.
